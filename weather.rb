@@ -11,7 +11,7 @@ def location(weather)
 	return weather[:city]
 end
 
-# 2. Using the location method as a guide, write a  method called "description" so it returns the description from the weather hash.
+# 2. Using the location method as a guide, write a  method called "description" so it returns the description from the her hash.
  def description(weather)
 	 return weather[:description]
  end
